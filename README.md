@@ -29,7 +29,6 @@ HTML页面
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>Todo</title>
-    <script type="text/javascript" src="/pkg/lib.js"></script>
     <script type="text/javascript">
     var url = 'pkg/lib_ac2f5ba.js';
 ```
