@@ -32,3 +32,4 @@ HTML页面
     <script type="text/javascript">
     var url = 'pkg/lib_ac2f5ba.js';
 ```
+插件说明http://www.iamaddy.net/2015/01/develop-fis-plugins/
